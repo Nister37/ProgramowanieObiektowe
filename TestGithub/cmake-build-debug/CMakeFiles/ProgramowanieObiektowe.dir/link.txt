@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ProgramowanieObiektowe.dir/objects.a
+C:\Users\k13_3pr02\MinGW\bin\ar.exe cr CMakeFiles\ProgramowanieObiektowe.dir/objects.a @CMakeFiles\ProgramowanieObiektowe.dir\objects1.rsp
+C:\Users\k13_3pr02\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ProgramowanieObiektowe.dir/objects.a -Wl,--no-whole-archive -o ProgramowanieObiektowe.exe -Wl,--out-implib,libProgramowanieObiektowe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProgramowanieObiektowe.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/k13_3pr02/Documents/ProgramowanieObiektowe/TestGithub/cmake-build-debug/CMakeFiles/ProgramowanieObiektowe.dir
+C:/Users/k13_3pr02/Documents/ProgramowanieObiektowe/TestGithub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/k13_3pr02/Documents/ProgramowanieObiektowe/TestGithub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
